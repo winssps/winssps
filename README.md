@@ -4,6 +4,5 @@
 ### Hi I'm Wesley
 
 - 🔭 Front-end development engineer
-- 🥰 React/Vue/Nodejs
-- 🥳 Rust/C++
+- 🥰 React/Vue/Nodejs/Threejs
 
